@@ -11,7 +11,7 @@ Description:
 Instructions: 
 With Python 2.7 installed in your command line interface, simply run the following script:
 
-'''
+'''html
 python blackjack.py
 
 '''
